@@ -95,24 +95,6 @@ This project is a **Web Medical Management System** built using **Java (JSP/Serv
 
 ---
 
-## File Structure
-```
-MedicalManagementSystem/
-├── src/
-│   ├── MainServlet.java          # Handles all application logic
-│   ├── Patient.java              # Patient model class
-│   └── DatabaseConnection.java   # Database connection utility
-├── WebContent/
-│   ├── index.jsp                 # Homepage
-│   ├── addPatient.jsp            # Form for adding patients
-│   ├── viewPatients.jsp          # Page to display all patients
-│   ├── updatePatient.jsp         # Form to edit patient details
-│   └── deletePatient.jsp         # Confirmation for deleting patients
-├── WEB-INF/
-│   └── web.xml                   # Servlet configuration
-└── build/
-```
-
 ---
 
 ## Future Enhancements
@@ -124,11 +106,6 @@ MedicalManagementSystem/
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
-
----
-
-## License
-This project is open-source and available under the MIT License.
 
 ---
 
